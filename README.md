@@ -19,6 +19,6 @@ Created pivot tables on the basis of the questions in the KPI
 To make data dyanamic pivot tables were merged with the slicers.
 
 # Dashboard
-<img width="504" alt="{D1CF7C21-F844-4399-B868-4C3BFDAD1D69}" src="https://github.com/user-attachments/assets/98ba6fd5-e3e3-4c69-81b9-b71188757e9b" />Dashboard</a>
+<img width="504" alt="{D1CF7C21-F844-4399-B868-4C3BFDAD1D69}" src="https://github.com/user-attachments/assets/98ba6fd5-e3e3-4c69-81b9-b71188757e9b" />
 
 
